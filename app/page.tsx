@@ -11,6 +11,5 @@ export default function Home() {
     frestyling and spending time with fellow <mark>Programmers</mark> that helps me do away with unnecessary<s>distractions</s> and helps me Focus more</h2>
   <p>. </p>
   </>
-
-  );
+  )
 }
